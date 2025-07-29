@@ -2,14 +2,14 @@
 <h3 align="center">A software engineer with a passion to build cool products from ideation to completion.</h3>
 
 👷 I’m currently working on [Voice AI](https://voice-ai.ailabapp.com)
+.
+💬 Ask me about **Applied AI, Product Design & Development and Product Management**.
 
-💬 Ask me about **Applied AI, Product Design & Development and Product Management**
+📝 I sometimes write articles on [https://samrakhalid.com](https://samrakhalid.com).
 
-📝 I sometimes write articles on [https://samrakhalid.com](https://samrakhalid.com)
+🌱 I’m currently learning **Astro, TypeScript and Core Artificial Intelligence**.
 
-🌱 I’m currently learning **Astro, TypeScript and Core Artificial Intelligence**
-
-📫 How to reach me **samrakhalid00@gmail.com**
+📫 You can reach me at **samrakhalid00@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
